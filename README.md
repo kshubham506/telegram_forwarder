@@ -16,6 +16,8 @@ Bot : [AutoForwarder Bot](https://telegram.me/autoforward_msgbot)
  - Cheapest Plans (Trial on demand)
  - Can handle and manage affiliate channels as well (Supports amazon, flipkart and many third party sites )
  - Even more add custom functions (change entire message content)
+ - 🆕 Forward messages to discord/slack or any other platform supporting webhooks.
+ - 🆕 Continuosly send messages to any public channel at regular intervals.
 
 ## How to Setup The Service?
 You can contact [Admin](https://telegram.me/kshubham506) on telegram and everything will be set up instantly. This is the manual method , use this only if you are unable to set up or find the self service portal confusing.
