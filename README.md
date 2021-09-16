@@ -1,4 +1,4 @@
-# Telegram Forwarder [Closed Source Project]
+# Telegram Forwarder [Not Open Source]
 Automatically forward messages from Channels, Groups, Users or Bots (private or public)
 Users can even start their own affiliate channel (bot has the capability to identify and resolve affiliate links)
 
